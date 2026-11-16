@@ -1,8 +1,8 @@
 # fast-marked-v4
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-markdown--render--speed--02-blue)](https://make.fun/bounty/markdown-render-speed-02)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-green)](https://nodejs.org/)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/0xrifai/fast-marked-v4/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/0xrifai/fast-marked-v4/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
 A faster drop-in replacement for [marked](https://github.com/markedjs/marked) 18.1.3.
 
